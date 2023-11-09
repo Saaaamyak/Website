@@ -1,0 +1,25 @@
+.picture {
+  margin-top: 60px;
+}
+
+.pictureTitles {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Lora', serif;
+  font-style: italic;
+  color: #444;
+}
+
+.pictureTitleLg {
+  position: center;
+  top: 12%;
+  font-size: 100px;
+}
+
+.pictureImg {
+  width: 100%;
+  height: 450px;
+  margin-top: 80px;
+  object-fit: cover;
+}
